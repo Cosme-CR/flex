@@ -1,0 +1,38 @@
+main{
+    height: 100vh;
+    display: flex;
+    flex-direction: column;
+}
+
+.um{
+    display: flex;
+    justify-content: flex-end;
+    background-color: rgb(161, 124, 195);
+    gap: 20px;
+
+}
+
+.roxo{
+    width: 40px;
+    border-radius: 50%;
+    border: 60px solid rgb(72, 3, 182);
+    background-color: blueviolet;
+
+}
+
+.dois{
+    display: flex;
+    justify-content: flex-end;
+    background-color: rgb(124, 195, 152);
+    gap: 20px;
+
+
+}
+
+.verde{
+    width: 40px;
+    border-radius: 50%;
+    border: 60px solid rgb(4, 115, 54);
+    background-color: blueviol
+
+}
