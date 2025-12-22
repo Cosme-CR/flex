@@ -5,10 +5,15 @@ main{
 }
 
 .um{
+    width: 100%;/*horizontal*/
+    height: 20%;
+
     display: flex;
-    justify-content: flex-end;
+    justify-content: flex-end;/*poem itens a direita*/
+    align-items: end;/*poem os itens em baixo*/
+
     background-color: rgb(161, 124, 195);
-    gap: 20px;
+    gap: 1%;
 
 }
 
@@ -16,15 +21,19 @@ main{
     width: 40px;
     border-radius: 50%;
     border: 60px solid rgb(72, 3, 182);
-    background-color: blueviolet;
+
 
 }
 
 .dois{
+    width: 100%;/*horizontal*/
+    height: 20%;
     display: flex;
     justify-content: flex-end;
+    align-items: center;
+
     background-color: rgb(124, 195, 152);
-    gap: 20px;
+    gap: 1%;
 
 
 }
@@ -33,6 +42,65 @@ main{
     width: 40px;
     border-radius: 50%;
     border: 60px solid rgb(4, 115, 54);
-    background-color: blueviol
+
+
+}
+.tres{
+    width: 100%;/*horizontal*/
+    height: 20%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+
+    background-color: rgba(191, 85, 85, 0.328);
+    gap: 1%;
+
+
+}
+.red{
+    width: 40px;
+    border-radius: 50%;
+    border: 60px solid rgb(191, 85, 85);
+
+}
+
+.quatro{
+    width: 100%;/*horizontal*/
+    height: 20%;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+
+    background-color: rgba(202, 205, 19, 0.286);
+    gap: 1%;
+
+
+}
+.amarelo{
+    width: 40px;
+    border-radius: 50%;
+    border: 60px solid rgba(202, 205, 19, 0.772);
+
+
+}
+
+
+.cinco{
+    width: 100%;/*horizontal*/
+    height: 20%;
+    display: flex;
+    justify-content: space-evenly;
+    align-items: center;
+
+    background-color: rgba(19, 35, 205, 0.286);
+    gap: 1%;
+
+
+}
+.blue{
+    width: 40px;
+    border-radius: 50%;
+    border: 60px solid rgb(19, 35, 205);
+
 
 }
