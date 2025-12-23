@@ -12,7 +12,7 @@ main{
     justify-content: flex-end;/*poem itens a direita*/
     align-items: end;/*poem os itens em baixo*/
 
-    background-color: rgb(161, 124, 195);
+    background-color: rgba(161, 124, 195, 0.326);
     gap: 1%;
 
 }
@@ -20,7 +20,7 @@ main{
 .roxo{
     width: 40px;
     border-radius: 50%;
-    border: 60px solid rgb(72, 3, 182);
+    border: 60px solid rgb(161, 124, 195);
 
 
 }
