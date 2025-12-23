@@ -2,11 +2,6 @@
 
 Este projeto utiliza HTML5 e CSS3 para demonstrar o uso do Flexbox na organização de elementos na tela.
 
-## Estrutura do Projeto
-
-/
-├── index.html
-└── style.css
 
 ## Descrição
 
